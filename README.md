@@ -13,7 +13,7 @@ The Face Mask Detection System is an AI-powered solution that uses computer visi
 The project can be extended to real-time detection using webcams or integrated with CCTV systems for mask compliance monitoring.
 
 3)
-vedio Link
+video Link
 
 https://youtu.be/dNISjkFv084
 
