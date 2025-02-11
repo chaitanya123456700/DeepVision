@@ -1,4 +1,4 @@
-# DEEPVISION
+
 
 1. Problem Statement
 The global COVID-19 pandemic emphasized the need for effective monitoring systems to ensure public safety. Many organizations and public spaces require individuals to wear face masks to minimize
